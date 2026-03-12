@@ -88,9 +88,6 @@ transition:0.3s;
 .btn:hover{
 background:#111011;
 }
-@media(max-width: 768px) {
-    h1{
-        front-size: 1.5rem !importanr;
 .btn{
 background:linear-gradient(135deg,#0e0e0e,#486bec);
 padding:14px 30px;
@@ -374,5 +371,6 @@ transform:scale(1.03);
     }
 
 }
+
 
 
